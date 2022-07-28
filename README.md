@@ -1,4 +1,5 @@
-<img src="./images/logo.png">
+<img src="./images/logo.png" style="width: 50%;">
+
 # CACTI
 
 Cacti is a robust performance and fault operation frame and a frontend to RRDTool- a Time Series Database( TSDB). It stores all of the necessary information to produce performance operation Graphs in either MariaDB or MySQL, and also leverages its colorful Data Collectors to colonize RRDTool grounded TSDB with that performance data.
