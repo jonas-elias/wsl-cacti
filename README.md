@@ -1,4 +1,4 @@
-<img src="./images/logo.png" style="width: 50%;">
+<img src="./images/logo.png" style="width: 10%;">
 
 # CACTI
 
