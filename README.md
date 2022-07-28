@@ -187,3 +187,5 @@ sudo chown -R www-data:www-data /opt/cacti/
 ```
 
 #### Access in: http://your_ip_address/cacti
+
+<img src="./images/installing_process.png">
