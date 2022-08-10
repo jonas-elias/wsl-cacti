@@ -204,3 +204,8 @@ sudo chown -R www-data:www-data /opt/cacti/
 
 ### Visualize Graphs of the Cacti
 <img src="./images/graph.png">
+
+## License
+```bash
+MIT License - <jonas-elias/>
+```
